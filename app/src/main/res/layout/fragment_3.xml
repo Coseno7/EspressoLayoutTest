@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_container">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:maxLines="1"
+        android:text="Hello, Fragment2aa阿啊阿啊阿 啊的的的ffffffffffffffffff的的的的ddddddd的的的阿啊阿啊阿啊阿啊阿啊阿"
+        android:textSize="18sp" />
+</FrameLayout>
